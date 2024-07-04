@@ -12,6 +12,9 @@ The smaller the number of guesses, the higher the score.
 
 Write these following lines in DOSBox in your local TASM folder.
 
+`mount c c:\tasm
+`
+
 1. mount c c:\tasm
 2. c:
 3. tasm game.asm
